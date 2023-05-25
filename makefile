@@ -10,7 +10,7 @@ venv: .venv
 
 test:
 	python -m unittest -v songwhip
-	python -m mypy -p songwhip
+	python -m mypy -p songwhip --non-interactive --install-types
 
 lint:
 	python -m flake8 songwhip

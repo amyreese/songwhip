@@ -11,7 +11,11 @@ authors = [
 license = {file="LICENSE"}
 dynamic = ["version", "description"]
 requires-python = ">=3.10"
-dependencies = []
+dependencies = [
+    "click >= 8",
+    "munch >= 2.5",
+    "rich >= 13",
+]
 
 [project.optional-dependencies]
 dev = [
@@ -44,3 +48,4 @@ signed_tags = true
 
 [tool.mypy]
 strict = true
+ignore_missing_imports = true
