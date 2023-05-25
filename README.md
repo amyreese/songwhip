@@ -1,18 +1,18 @@
-# PROJECT_NAME
+# songwhip
 
-PROJECT_DESCRIPTION
+simple Songwhip client
 
-[![version](https://img.shields.io/pypi/v/PACKAGE_NAME.svg)](https://pypi.org/project/PACKAGE_NAME)
-[![license](https://img.shields.io/pypi/l/PACKAGE_NAME.svg)](https://github.com/GITHUB_USERNAME/PACKAGE_NAME/blob/main/LICENSE)
+[![version](https://img.shields.io/pypi/v/songwhip.svg)](https://pypi.org/project/songwhip)
+[![license](https://img.shields.io/pypi/l/songwhip.svg)](https://github.com/amyreese/songwhip/blob/main/LICENSE)
 
 Install
 -------
 
 ```shell-session
-$ pip install PACKAGE_NAME
+$ pip install songwhip
 ```
 
 License
 -------
 
-PROJECT_NAME is copyright AUTHOR_NAME, and licensed under the MIT license.
+songwhip is copyright Amethyst Reese, and licensed under the MIT license.
